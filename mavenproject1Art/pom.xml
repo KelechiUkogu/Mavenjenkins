@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>mavenproject1</groupId>
-  <artifactId>mavenproject1Article</artifactId>
+  <artifactId>mavenproject1Art</artifactId>
   <version>1.0</version>
 
   <name>mavenproject1Art</name>
@@ -88,4 +88,5 @@
     </pluginManagement>
   </build>
 </project>
+
 
